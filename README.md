@@ -5,7 +5,7 @@
 
 ### Avaliação 3 - Paradigmas de Linguagem de Programação
 
-###Questão 1º) Crie um sistema de quiz (usando programação estruturada)
+### Questão 1º) Crie um sistema de quiz (usando programação estruturada)
 
 Regra 1: O quiz deve possuir no mínimo 3 alternativas para cada pergunta;
 Regra 2: Cada acerto de questão deve valer 5 pontos;
@@ -20,7 +20,7 @@ Lista de perguntas:
 - O que é Interfaces?
 - O que é Polimorfismo?
 
-###Questão 2º) Crie um subsistema que gere etiquetas para o tipo de impressora de etiqueta “Zebra (ZPL)” usando a estória (resumida) abaixo.
+### Questão 2º) Crie um subsistema que gere etiquetas para o tipo de impressora de etiqueta “Zebra (ZPL)” usando a estória (resumida) abaixo.
 
 História do Usuário: Emissão de Etiquetas com Facilidade
 
@@ -56,7 +56,7 @@ Use o site Labelary Online ZPL Viewer para validar se a geração está correta.
 ![image](https://github.com/carloscz17/av3_paradigmas/assets/91580777/e0f7e9a9-a112-4837-b14f-ebbe26a29e20)
 
 
-###Questão 3º) 
+### Questão 3º) 
 1) Introdução
 O objetivo principal deste documento é descrever a estrutura que deve ser utilizada para criar um subsistema que faz o cálculo de impostos de produtos. Toda a arquitetura e desenvolvimento é baseado no paradigma orientação a objetos e boas práticas de programação.
 ![image](https://github.com/carloscz17/av3_paradigmas/assets/91580777/3e229b50-a8fe-42f5-958b-ef5c34088731)
