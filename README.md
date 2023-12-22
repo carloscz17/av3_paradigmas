@@ -1,7 +1,5 @@
 # av3_paradigmas
 
-Prova realizada utilizando dois padrões de projetos, que são o ADAPTER e BUILDER.
-
 ### Desenvolvedor 👨‍💻
 - Carlos César Grangeiro Adriano
 
