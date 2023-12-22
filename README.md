@@ -60,7 +60,9 @@ Use o site Labelary Online ZPL Viewer para validar se a geração está correta.
 1) Introdução
 O objetivo principal deste documento é descrever a estrutura que deve ser utilizada para criar um subsistema que faz o cálculo de impostos de produtos. Toda a arquitetura e desenvolvimento é baseado no paradigma orientação a objetos e boas práticas de programação.
 ![image](https://github.com/carloscz17/av3_paradigmas/assets/91580777/3e229b50-a8fe-42f5-958b-ef5c34088731)
+
 ![image](https://github.com/carloscz17/av3_paradigmas/assets/91580777/c6dde790-ca50-4ccc-8383-6e80848b75d3)
+
 ![image](https://github.com/carloscz17/av3_paradigmas/assets/91580777/9092016c-e3b4-42c0-9d6b-e2d586132681)
 5) Implementação
 Codifique as classes ICMS, PIS, IPI, ISS que implementam a interface Imposto para que o método calcular realize o cálculo de 18%, 0,65% e 12%, 22% respectivamente.
